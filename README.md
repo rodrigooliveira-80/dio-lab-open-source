@@ -11,5 +11,6 @@ Gerenciamento de máquinas virtuais no portal Azure
 ## Objetivo
 Aprender sobre a gestão do Microsoft Azure
 
-![image](https://github.com/user-attachments/assets/af7a9b3a-1455-4086-80a1-d9cefd74b2f0)
+![image](https://github.com/user-attachments/assets/eab29d1a-fd4a-4d3d-8177-d1b16d5e5a25)
+
 
