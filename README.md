@@ -13,4 +13,9 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/eab29d1a-fd4a-4d3d-8177-d1b16d5e5a25)
 
+## Gerenciando instâncias de banco de dados no portal do Azure
+
+![image](https://github.com/user-attachments/assets/1a26f6cc-c119-46a2-b616-9fc9ae031493)
+
+
 
