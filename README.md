@@ -17,5 +17,10 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/1a26f6cc-c119-46a2-b616-9fc9ae031493)
 
+## Toour virtual pelo DataCenter da Microsoft
 
+![image](https://github.com/user-attachments/assets/2ce35c49-020b-495b-91b3-618e16c8c6d9)
 
+## Gerenciamento do Grupo de Recursos do Azure
+
+![image](https://github.com/user-attachments/assets/93a16ebf-209b-4e9b-920f-463aec4b4c17)
