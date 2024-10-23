@@ -28,3 +28,8 @@ Aprender sobre a gestão do Microsoft Azure
 ## Criação de novas máquinas virtuais
 
 ![image](https://github.com/user-attachments/assets/a538bb77-7518-4278-821b-87aec7dc8cc2)
+
+## Contas de Armazenamento
+
+![image](https://github.com/user-attachments/assets/174f2e90-ef1b-4d46-887f-e4c098c5e909)
+
