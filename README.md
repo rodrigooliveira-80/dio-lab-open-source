@@ -24,3 +24,7 @@ Aprender sobre a gestão do Microsoft Azure
 ## Gerenciamento do Grupo de Recursos do Azure
 
 ![image](https://github.com/user-attachments/assets/93a16ebf-209b-4e9b-920f-463aec4b4c17)
+
+## Criação de novas máquinas virtuais
+
+![image](https://github.com/user-attachments/assets/a538bb77-7518-4278-821b-87aec7dc8cc2)
