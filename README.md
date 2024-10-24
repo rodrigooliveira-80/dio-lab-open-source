@@ -33,3 +33,6 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/174f2e90-ef1b-4d46-887f-e4c098c5e909)
 
+## Gerenciamento de Identidade e Segurança do Azure
+
+![image](https://github.com/user-attachments/assets/9e27bb17-68ae-4162-83a1-77cb776078ba)
