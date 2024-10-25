@@ -36,3 +36,13 @@ Aprender sobre a gestão do Microsoft Azure
 ## Gerenciamento de Identidade e Segurança do Azure
 
 ![image](https://github.com/user-attachments/assets/9e27bb17-68ae-4162-83a1-77cb776078ba)
+
+## Estimativa de Custo Total de Propriedade
+
+![image](https://github.com/user-attachments/assets/5c2dc192-0b70-4521-86e9-d57a1fa70db8)
+
+## Análise de Custo
+
+![image](https://github.com/user-attachments/assets/4645bd99-f729-42c2-9f5f-7302fe7e0588)
+
+
