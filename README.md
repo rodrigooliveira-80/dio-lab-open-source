@@ -45,4 +45,11 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/4645bd99-f729-42c2-9f5f-7302fe7e0588)
 
+## Consulta do Portal de Confiança do Serviço
+
+![image](https://github.com/user-attachments/assets/e80d90da-6343-455e-968b-c4436ab720c8)
+
+## Analise das Políticas do Azure
+
+![image](https://github.com/user-attachments/assets/a083b1a2-a271-432d-ac3f-23296deae477)
 
