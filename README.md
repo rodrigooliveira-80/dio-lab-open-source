@@ -57,4 +57,14 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/c899f041-f36a-412c-ac79-d4e5923d6a84)
 
+## Azure Advisor
+
+![image](https://github.com/user-attachments/assets/157e4205-9a55-4de1-a486-22584ab44764)
+
+## Integridade do serviço do Azure
+
+![image](https://github.com/user-attachments/assets/293cc8e7-9e47-4b5c-8310-b9f4bb860725)
+
+
+
 
