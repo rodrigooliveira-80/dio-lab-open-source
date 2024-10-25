@@ -53,3 +53,8 @@ Aprender sobre a gestão do Microsoft Azure
 
 ![image](https://github.com/user-attachments/assets/a083b1a2-a271-432d-ac3f-23296deae477)
 
+## Uso do Azure Power Shell
+
+![image](https://github.com/user-attachments/assets/c899f041-f36a-412c-ac79-d4e5923d6a84)
+
+
